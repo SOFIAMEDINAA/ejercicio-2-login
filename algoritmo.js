@@ -10,3 +10,5 @@ if (result == true) {
 } else {
     alert ( ("Tu cantidad de ETH es") + (bitcoinIngresado * BITCOIN_A_PRECIO_ETHERUM))
 }
+
+/* antu y sofia */
